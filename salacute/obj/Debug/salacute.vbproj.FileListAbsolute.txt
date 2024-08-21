@@ -1,0 +1,12 @@
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.vbproj.AssemblyReference.cache
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.OTR.resources
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.Resources.resources
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.vbproj.GenerateResource.cache
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.vbproj.CoreCompileInputs.cache
+C:\Users\mikoe\source\repos\salacute\bin\Debug\salacute.exe.config
+C:\Users\mikoe\source\repos\salacute\bin\Debug\salacute.exe
+C:\Users\mikoe\source\repos\salacute\bin\Debug\salacute.pdb
+C:\Users\mikoe\source\repos\salacute\bin\Debug\salacute.xml
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.exe
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.xml
+C:\Users\mikoe\source\repos\salacute\obj\Debug\salacute.pdb
